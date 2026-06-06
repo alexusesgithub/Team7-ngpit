@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  # Backend - FastAPI
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: challenge-me-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - FASTAPI_ENV=development
+      - HOST=0.0.0.0
+      - PORT=8000
+      - FRONTEND_URL=http://localhost:3000
+    volumes:
+      - ./backend:/app
+    command: uvicorn main:app --reload --host 0.0.0.0 --port 8000
+    networks:
+      - challenge-me-network
+
+  # Frontend - React + Vite
+  frontend:
+    build:
+      context: ./futureforge
+      dockerfile: Dockerfile
+    container_name: challenge-me-frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    volumes:
+      - ./futureforge/src:/app/src
+    depends_on:
+      - backend
+    networks:
+      - challenge-me-network
+
+networks:
+  challenge-me-network:
+    driver: bridge
+
+# To run:
+# docker-compose up
+# 
+# Backend: http://localhost:8000
+# Frontend: http://localhost:5173
+# Swagger UI: http://localhost:8000/docs
