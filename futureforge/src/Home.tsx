@@ -1,4 +1,4 @@
-export default function Home({ onLaunchModule1 }: { onLaunchModule1: () => void }) {
+export default function Home({ onLaunchModule1, onLaunchModule3 }: { onLaunchModule1: () => void; onLaunchModule3: () => void }) {
     return (
         <div className="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 min-h-screen">
             {/* Navigation Bar */}
@@ -100,9 +100,9 @@ export default function Home({ onLaunchModule1 }: { onLaunchModule1: () => void 
                             </div>
                             <h3 className="text-2xl font-bold text-slate-900 mb-4">Challenge Me</h3>
                             <p className="text-slate-600 mb-8 leading-relaxed flex-grow">Ditch the tutorials. Build real-world industry projects alongside AI co-pilots and expert mentors.</p>
-                            <a href="#" className="inline-flex items-center gap-2 font-bold text-purple-600 hover:text-purple-800 transition-colors w-max">
+                            <button onClick={onLaunchModule3} className="inline-flex items-center gap-2 font-bold text-purple-600 hover:text-purple-800 transition-colors w-max">
                                 Launch Module 3 <svg className="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                            </a>
+                            </button>
                         </div>
 
                         {/* Module 4: Showcase Me */}
