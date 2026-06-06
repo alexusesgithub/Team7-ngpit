@@ -124,30 +124,24 @@ npm run dev
 * **Web3 Integration:** Transitioning the Employability Passport into non-fungible decentralized badges to prevent educational credential fraud.
 * **Real-time Job Market Scraper:** Integrating live global recruitment data streams to adapt the AI skill-gap analyzer dynamically to changing industrial market trends.
 
-Project Budget
-Total Estimated Budget: ₹8,50,000
-This budget covers the complete development of the 4 core modules (Discover Me, Grow Me, Challenge Me, and Showcase Me) with good quality, futuristic design, and proper AI integration
+## 💰 Project Budget
+Total Estimated Budget: **₹50,00,000 (50 Lakhs)**
 
-Budget Allocation:
+This budget is strategically allocated to cover full-scale development, team salaries, advanced AI scaling, marketing, and a safety buffer to ensure FutureForge AI reaches the market successfully and sustains its initial growth phase.
 
-Frontend Development (React, Tailwind, Framer Motion & Anti-gravity animations): ₹2,20,000
+### Budget Allocation Breakdown:
 
-Backend Development (FastAPI + APIs + Logic): ₹1,60,000
+* **Core Development & Salaries:** `₹22,00,000`
+  * Frontend/Backend Engineers, AI Specialists, UI/UX Designers, and Project Managers.
+* **AI Infrastructure & Hosting:** `₹8,00,000`
+  * Gemini API Enterprise tier, Supabase scalable database, AWS cloud hosting, and model fine-tuning.
+* **Marketing & Institutional Partnerships:** `₹8,00,000`
+  * Go-to-market strategy, university outreach, user acquisition, and branding.
+* **Legal, Compliance & Admin:** `₹3,00,000`
+  * Company registration, data privacy compliance (GDPR/DPDP), and software licensing.
+* **Operations & Maintenance (1st Year):** `₹4,00,000`
+  * Server upkeep, bug fixes, continuous integration, and customer support.
+* **Contingency / Buffer Fund:** `₹5,00,000`
+  * Emergency funds for unexpected technical hurdles or market shifts.
 
-AI Integration (Gemini API for assessments, coach, and recommendations): ₹1,20,000
-
-UI/UX Design (Futuristic theme & Prototyping): ₹80,000
-
-Database & Hosting (Supabase + Deployment): ₹60,000
-
-Testing & Quality Assurance: ₹70,000
-
-Project Management & Documentation: ₹40,000
-
-Domain, Tools & Miscellaneous: ₹30,000
-
-Deployment & Basic DevOps: ₹30,000
-
-Buffer / Contingency: ₹40,000
-
-Grand Total: ₹8,50,000
+**Grand Total: ₹50,00,000**
