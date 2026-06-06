@@ -123,3 +123,84 @@ npm run dev
 
 * **Web3 Integration:** Transitioning the Employability Passport into non-fungible decentralized badges to prevent educational credential fraud.
 * **Real-time Job Market Scraper:** Integrating live global recruitment data streams to adapt the AI skill-gap analyzer dynamically to changing industrial market trends.
+
+
+BUDGET ALLOCATION:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│              FUTUREFORGE AI - PROJECT BUDGET                │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │                   DEVELOPMENT COSTS                    │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  Discover Me Module      ₹17,000                      │ │
+│  │  Grow Me Module          ₹28,000                      │ │
+│  │  Challenge Me Module     ₹20,000                      │ │
+│  │  Showcase Me Module      ₹20,000                      │ │
+│  │  Infrastructure & Setup  ₹ 3,330                      │ │
+│  │  Testing & QA            ₹ 3,000                      │ │
+│  │  Marketing & Launch      ₹ 2,000                      │ │
+│  │  Miscellaneous           ₹ 3,170                      │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  TOTAL BASE COST         ₹96,500                      │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │              EXTRA FUNDS (BUFFER + CONTINGENCY)        │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  Buffer (20% for emergencies)    ₹19,300              │ │
+│  │  Contingency (15% for surprises) ₹15,000              │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  TOTAL EXTRA FUNDS               ₹34,300              │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │                      GRAND TOTAL                       │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │                                                       │ │
+│  │      Base Cost         ₹96,500                        │ │
+│  │      Extra Funds       ₹34,300                        │ │
+│  │      ─────────────────────────                        │ │
+│  │      TOTAL             ₹1,30,800                      │ │
+│  │                                                       │ │
+│  │      Rounded           ₹1,31,000                      │ │
+│  │      (~$1,600 USD)                                    │ │
+│  │                                                       │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │                     MONTHLY COSTS                      │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  Hosting (Vercel, Render, Supabase)    ₹0             │ │
+│  │  Gemini API (Free Tier)                ₹0             │ │
+│  │  Authentication (Firebase)             ₹0             │ │
+│  │  ─────────────────────────                           │ │
+│  │  TOTAL MONTHLY COST                    ₹0             │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │                     WHAT BUFFER COVERS                 │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │  • If Gemini API usage exceeds free limit             │ │
+│  │  • If development takes extra time                    │ │
+│  │  • If unexpected bugs need fixing                     │ │
+│  │  • If additional tools are required                   │ │
+│  │  • If marketing needs a paid boost                    │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+│  ┌───────────────────────────────────────────────────────┐ │
+│  │                      VERDICT                           │ │
+│  ├───────────────────────────────────────────────────────┤ │
+│  │                                                       │ │
+│  │     ✅ BUDGET APPROVED                                │ │
+│  │                                                       │ │
+│  │     Reason: ₹1,31,000 is reasonable for an           │ │
+│  │     AI-powered platform with 4 complete modules.     │ │
+│  │     20% buffer provides safety for emergencies.      │ │
+│  │     No monthly costs keep it sustainable.            │ │
+│  │                                                       │ │
+│  └───────────────────────────────────────────────────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
