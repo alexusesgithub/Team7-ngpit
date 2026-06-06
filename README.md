@@ -27,10 +27,10 @@ We have approached the development of FutureForge AI using the **Agile-Waterfall
 
 FutureForge AI operates on a decoupled, modular architecture leveraging an AI Orchestration layer.
 
-* Frontend Layer: React + Tailwind CSS
-* Backend API Layer: FastAPI Service Engine
+* Frontend Layer: React + TypeScript + Vite + Tailwind CSS
+* Backend API Layer: Python (FastAPI) & Node.js (Express) Services
 * Database Layer: PostgreSQL hosted via Supabase
-* AI Core Layer: Gemini API Prompt Engine
+* AI Core Layer: Google Generative AI (Gemini 1.5 Flash)
 
 ### 3. Implementation (MVP Modules)
 
@@ -60,10 +60,10 @@ The core platform is built into four distinct operational modules:
 
 ## 🛠️ Technology Stack
 
-* Frontend: React, Tailwind CSS (High-performance single-page interface)
-* Backend: FastAPI (High-speed, asynchronous Python REST API handling)
+* Frontend: React, TypeScript, Vite, Tailwind CSS, Lucide React (High-performance single-page interface)
+* Backend: FastAPI (Python REST API for Challenges) & Express (Node.js AI Roadmap Service)
 * Database: Supabase / PostgreSQL (Relational data persistence and profile tracking)
-* AI Layer: Gemini API (Core intelligence for behavior-to-strength mapping and roadmap curation)
+* AI Layer: Google Generative AI / Gemini API (Core intelligence for behavior-to-strength mapping and real-time coaching)
 * Authentication: Supabase Auth (Secure, token-based user login sessions)
 
 ---
@@ -125,23 +125,21 @@ npm run dev
 * **Real-time Job Market Scraper:** Integrating live global recruitment data streams to adapt the AI skill-gap analyzer dynamically to changing industrial market trends.
 
 ## 💰 Project Budget
-Total Estimated Budget: **₹50,00,000 (50 Lakhs)**
+Total Estimated Budget: **₹15,00,000 (15 Lakhs)**
 
-This budget is strategically allocated to cover full-scale development, team salaries, advanced AI scaling, marketing, and a safety buffer to ensure FutureForge AI reaches the market successfully and sustains its initial growth phase.
+This budget outlines a realistic estimate for building, launching, and sustaining the Minimum Viable Product (MVP) of FutureForge AI over a 6-to-8 month runway, ensuring robust AI features and a strong initial user base.
 
 ### Budget Allocation Breakdown:
 
-* **Core Development & Salaries:** `₹22,00,000`
-  * Frontend/Backend Engineers, AI Specialists, UI/UX Designers, and Project Managers.
-* **AI Infrastructure & Hosting:** `₹8,00,000`
-  * Gemini API Enterprise tier, Supabase scalable database, AWS cloud hosting, and model fine-tuning.
-* **Marketing & Institutional Partnerships:** `₹8,00,000`
-  * Go-to-market strategy, university outreach, user acquisition, and branding.
-* **Legal, Compliance & Admin:** `₹3,00,000`
-  * Company registration, data privacy compliance (GDPR/DPDP), and software licensing.
-* **Operations & Maintenance (1st Year):** `₹4,00,000`
-  * Server upkeep, bug fixes, continuous integration, and customer support.
-* **Contingency / Buffer Fund:** `₹5,00,000`
-  * Emergency funds for unexpected technical hurdles or market shifts.
+* **Core MVP Development:** `₹6,00,000`
+  * UI/UX Design, Frontend architecture, Backend microservices, and AI prompt engineering.
+* **Team Salary & Compensation:** `₹4,00,000`
+  * Stipends and initial salaries for developers, researchers, and project managers.
+* **AI Infrastructure & Hosting:** `₹1,50,000`
+  * Google Generative AI API usage, Supabase database scaling, and reliable cloud hosting.
+* **Marketing, Outreach & Beta Testing:** `₹2,00,000`
+  * University onboarding events, digital marketing, domain acquisition, and beta tester incentives.
+* **Contingency / Buffer Fund:** `₹1,50,000`
+  * Financial safety net reserved for unexpected technical challenges or extended development timelines.
 
-**Grand Total: ₹50,00,000**
+**Grand Total: ₹15,00,000**
