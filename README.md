@@ -124,83 +124,38 @@ npm run dev
 * **Web3 Integration:** Transitioning the Employability Passport into non-fungible decentralized badges to prevent educational credential fraud.
 * **Real-time Job Market Scraper:** Integrating live global recruitment data streams to adapt the AI skill-gap analyzer dynamically to changing industrial market trends.
 
+Detailed Budget Allocation:
 
-BUDGET ALLOCATION:
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│              FUTUREFORGE AI - PROJECT BUDGET                │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │                   DEVELOPMENT COSTS                    │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  Discover Me Module      ₹17,000                      │ │
-│  │  Grow Me Module          ₹28,000                      │ │
-│  │  Challenge Me Module     ₹20,000                      │ │
-│  │  Showcase Me Module      ₹20,000                      │ │
-│  │  Infrastructure & Setup  ₹ 3,330                      │ │
-│  │  Testing & QA            ₹ 3,000                      │ │
-│  │  Marketing & Launch      ₹ 2,000                      │ │
-│  │  Miscellaneous           ₹ 3,170                      │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  TOTAL BASE COST         ₹96,500                      │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │              EXTRA FUNDS (BUFFER + CONTINGENCY)        │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  Buffer (20% for emergencies)    ₹19,300              │ │
-│  │  Contingency (15% for surprises) ₹15,000              │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  TOTAL EXTRA FUNDS               ₹34,300              │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │                      GRAND TOTAL                       │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │                                                       │ │
-│  │      Base Cost         ₹96,500                        │ │
-│  │      Extra Funds       ₹34,300                        │ │
-│  │      ─────────────────────────                        │ │
-│  │      TOTAL             ₹1,30,800                      │ │
-│  │                                                       │ │
-│  │      Rounded           ₹1,31,000                      │ │
-│  │      (~$1,600 USD)                                    │ │
-│  │                                                       │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │                     MONTHLY COSTS                      │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  Hosting (Vercel, Render, Supabase)    ₹0             │ │
-│  │  Gemini API (Free Tier)                ₹0             │ │
-│  │  Authentication (Firebase)             ₹0             │ │
-│  │  ─────────────────────────                           │ │
-│  │  TOTAL MONTHLY COST                    ₹0             │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │                     WHAT BUFFER COVERS                 │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │  • If Gemini API usage exceeds free limit             │ │
-│  │  • If development takes extra time                    │ │
-│  │  • If unexpected bugs need fixing                     │ │
-│  │  • If additional tools are required                   │ │
-│  │  • If marketing needs a paid boost                    │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-│  ┌───────────────────────────────────────────────────────┐ │
-│  │                      VERDICT                           │ │
-│  ├───────────────────────────────────────────────────────┤ │
-│  │                                                       │ │
-│  │     ✅ BUDGET APPROVED                                │ │
-│  │                                                       │ │
-│  │     Reason: ₹1,31,000 is reasonable for an           │ │
-│  │     AI-powered platform with 4 complete modules.     │ │
-│  │     20% buffer provides safety for emergencies.      │ │
-│  │     No monthly costs keep it sustainable.            │ │
-│  │                                                       │ │
-│  └───────────────────────────────────────────────────────┘ │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Frontend Development (React, Tailwind, Framer Motion & Animations)
+₹2,20,000
+→ Covers the complete user interface for all 4 modules with futuristic design and smooth anti-gravity effects in Showcase Me.
+Backend Development (FastAPI + Business Logic)
+₹1,60,000
+→ Building all APIs, user data flow, module connections, and core functionality.
+AI Integration (Google Gemini API)
+₹1,20,000
+→ Personality analysis, career recommendations, roadmap generation, and AI coach features.
+UI/UX Design (Figma Prototyping & Design System)
+₹80,000
+→ Complete futuristic theme design, wireframes, and user experience flow.
+Database & Hosting (Supabase + Vercel/Railway)
+₹60,000
+→ Database setup, file storage (portfolios), and deployment.
+Testing & Quality Assurance
+₹70,000
+→ Thorough testing of all 4 modules and fixing bugs.
+Project Management & Documentation
+₹40,000
+→ Planning, team coordination, README, and architecture documents.
+Domain, Tools & Miscellaneous
+₹30,000
+→ Domain name, SSL, icons, and other small tools.
+Deployment & Basic Setup
+₹30,000
+→ Final hosting, CI/CD, and basic monitoring.
+Buffer / Contingency
+₹40,000
+→ Extra amount kept for unexpected changes, additional API costs, or last-minute improvements.
+
+
+Total = ₹8,50,000
