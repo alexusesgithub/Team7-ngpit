@@ -124,38 +124,30 @@ npm run dev
 * **Web3 Integration:** Transitioning the Employability Passport into non-fungible decentralized badges to prevent educational credential fraud.
 * **Real-time Job Market Scraper:** Integrating live global recruitment data streams to adapt the AI skill-gap analyzer dynamically to changing industrial market trends.
 
-Detailed Budget Allocation:
+Project Budget
+Total Estimated Budget: ₹8,50,000
+This budget covers the complete development of the 4 core modules (Discover Me, Grow Me, Challenge Me, and Showcase Me) with good quality, futuristic design, and proper AI integration
 
-Frontend Development (React, Tailwind, Framer Motion & Animations)
-₹2,20,000
-→ Covers the complete user interface for all 4 modules with futuristic design and smooth anti-gravity effects in Showcase Me.
-Backend Development (FastAPI + Business Logic)
-₹1,60,000
-→ Building all APIs, user data flow, module connections, and core functionality.
-AI Integration (Google Gemini API)
-₹1,20,000
-→ Personality analysis, career recommendations, roadmap generation, and AI coach features.
-UI/UX Design (Figma Prototyping & Design System)
-₹80,000
-→ Complete futuristic theme design, wireframes, and user experience flow.
-Database & Hosting (Supabase + Vercel/Railway)
-₹60,000
-→ Database setup, file storage (portfolios), and deployment.
-Testing & Quality Assurance
-₹70,000
-→ Thorough testing of all 4 modules and fixing bugs.
-Project Management & Documentation
-₹40,000
-→ Planning, team coordination, README, and architecture documents.
-Domain, Tools & Miscellaneous
-₹30,000
-→ Domain name, SSL, icons, and other small tools.
-Deployment & Basic Setup
-₹30,000
-→ Final hosting, CI/CD, and basic monitoring.
-Buffer / Contingency
-₹40,000
-→ Extra amount kept for unexpected changes, additional API costs, or last-minute improvements.
+Budget Allocation:
 
+Frontend Development (React, Tailwind, Framer Motion & Anti-gravity animations): ₹2,20,000
 
-Total = ₹8,50,000
+Backend Development (FastAPI + APIs + Logic): ₹1,60,000
+
+AI Integration (Gemini API for assessments, coach, and recommendations): ₹1,20,000
+
+UI/UX Design (Futuristic theme & Prototyping): ₹80,000
+
+Database & Hosting (Supabase + Deployment): ₹60,000
+
+Testing & Quality Assurance: ₹70,000
+
+Project Management & Documentation: ₹40,000
+
+Domain, Tools & Miscellaneous: ₹30,000
+
+Deployment & Basic DevOps: ₹30,000
+
+Buffer / Contingency: ₹40,000
+
+Grand Total: ₹8,50,000
